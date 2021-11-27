@@ -1,0 +1,15 @@
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\bin\Debug\net6.0\Projeto.Padrão.Application.deps.json
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\bin\Debug\net6.0\Projeto.Padrão.Application.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\bin\Debug\net6.0\ref\Projeto.Padrão.Application.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\bin\Debug\net6.0\Projeto.Padrão.Application.pdb
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\bin\Debug\net6.0\Projeto.Padrao.Domain.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\bin\Debug\net6.0\Projeto.Padrao.Domain.pdb
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\Projeto.Padrão.Application.csproj.AssemblyReference.cache
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\Projeto.Padrão.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\Projeto.Padrão.Application.AssemblyInfoInputs.cache
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\Projeto.Padrão.Application.AssemblyInfo.cs
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\Projeto.Padrão.Application.csproj.CoreCompileInputs.cache
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\Projeto.Padrão.Application.csproj.CopyComplete
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\Projeto.Padrão.Application.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\ref\Projeto.Padrão.Application.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrão.Application\obj\Debug\net6.0\Projeto.Padrão.Application.pdb

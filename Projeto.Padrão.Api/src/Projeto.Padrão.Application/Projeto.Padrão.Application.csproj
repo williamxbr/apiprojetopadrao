@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
-    <Folder Include="Enums\" />
-    <Folder Include="Interfaces\Services\" />
+    <ProjectReference Include="..\Projeto.Padrao.Domain\Projeto.Padrao.Domain.csproj" />
   </ItemGroup>
 
 </Project>

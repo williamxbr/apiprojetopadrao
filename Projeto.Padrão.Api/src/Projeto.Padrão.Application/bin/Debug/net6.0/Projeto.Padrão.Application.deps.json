@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto.Padrão.Application/1.0.0": {
+        "dependencies": {
+          "Projeto.Padrao.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Projeto.Padrão.Application.dll": {}
+        }
+      },
+      "Projeto.Padrao.Domain/1.0.0": {
+        "runtime": {
+          "Projeto.Padrao.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto.Padrão.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projeto.Padrao.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

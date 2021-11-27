@@ -1,0 +1,15 @@
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\bin\Debug\net6.0\Projeto.Padrao.Repository.deps.json
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\bin\Debug\net6.0\Projeto.Padrao.Repository.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\bin\Debug\net6.0\ref\Projeto.Padrao.Repository.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\bin\Debug\net6.0\Projeto.Padrao.Repository.pdb
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\bin\Debug\net6.0\Projeto.Padrao.Domain.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\bin\Debug\net6.0\Projeto.Padrao.Domain.pdb
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\Projeto.Padrao.Repository.csproj.AssemblyReference.cache
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\Projeto.Padrao.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\Projeto.Padrao.Repository.AssemblyInfoInputs.cache
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\Projeto.Padrao.Repository.AssemblyInfo.cs
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\Projeto.Padrao.Repository.csproj.CoreCompileInputs.cache
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\Projeto.Padrao.Repository.csproj.CopyComplete
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\Projeto.Padrao.Repository.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\ref\Projeto.Padrao.Repository.dll
+C:\GitHub\apiprojetopadrao\Projeto.Padrão.Api\src\Projeto.Padrao.Repository\obj\Debug\net6.0\Projeto.Padrao.Repository.pdb
